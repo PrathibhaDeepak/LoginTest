@@ -1,5 +1,5 @@
-# LoginTest
-OrangeHRM Login Test - Selenium
+//# LoginTest
+//OrangeHRM Login Test - Selenium
 
 package LoginTestPack;
 
